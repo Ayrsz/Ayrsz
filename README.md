@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">-  Tenho 21 anos, sou natural de Santos (SP), atualmente moro em Pernambuco 🚀<br>- Sou apaixonado por matemática e programação 🤝<br>- Aspirante a especialista em inteligência artificial e desenvolvedor de software 🧠<br>- Atualmente sou pesquisador na área de processamento de imagens e visão computacional pela SOFTEX 📺</p>
+<p align="left">-  Tenho 21 anos, sou natural de Santos (SP), atualmente moro em Pernambuco 🚀<br>- Sou apaixonado por matemática e programação 🤝<br>- Aspirante a especialista em inteligência artificial e Engenheiro de software 🧠<br>- Atualmente sou pesquisador na área de processamento de imagens e visão computacional pela SOFTEX 📺</p>
 
 ###
 
