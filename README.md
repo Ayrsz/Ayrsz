@@ -1,80 +1,45 @@
-<h1 align="left">Bem vindo! ◻️</h1>
+<h2>Hey there! I'm Matheus Ayres</h2>
 
-###
+<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-<p align="left">Opa! Meu nome é Matheus Ayres dos Santos, atualmente sou graduando em engenharia da computação pela UFPE.</p>
+### 👨🏻‍💻 &nbsp;About Me
 
-###
+💡 &nbsp;I like to explore new technologies and variable aplications of math.\
+🎓 &nbsp;I'm currently studying Computer Engineering at the Federal University of Pernambuco (UFPE).\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Robitcs, and Software Engineering.\
+✍️ &nbsp;In my free time, i like to play video games.\
+💬 &nbsp;Feel free to ask me about anything, give positive or negative feedbacks, i'm open to improvements.\
+✉️  You send me a email at matheusayressantos@gmail.com!
 
-<h2 align="left">About me</h2>
 
-###
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<p align="left">-  Tenho 21 anos, sou natural de Santos (SP), atualmente moro em Pernambuco 🚀<br>- Sou apaixonado por matemática e programação 🤝<br>- Aspirante a especialista em inteligência artificial e Engenheiro de software 🧠<br>- Atualmente sou pesquisador na área de processamento de imagens e visão computacional pela SOFTEX 📺</p>
+### 🛠 &nbsp;Tech Stack
 
-###
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown) 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<h2 align="left">Linguagens que domino:</h2>
+### ⚙️ &nbsp;GitHub Analytics
 
-###
+<p align="center">
+<a href="https://github.com/Ayrsz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ayrsz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ayrsz&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
+### 🤝🏻 &nbsp;Connect with Me
 
-###
+<p align="center">
+<a href="https://www.linkedin.com/in/matheusayress/"><img src="https://img.shields.io/badge/-matheus_ayres-blue?style=flat&logo=Linkedin&logoColor=red"/></a>
+<a href="mailto:matheusayressantos@gmail.com"><img src="https://img.shields.io/badge/-matheusayressantos@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-<h2 align="left">Bibliotecas e Ferramentas</h2>
+-----
+Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-</div>
-
-###
-
-<h2 align="left">Redes para contato (preferência por email)</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/matheusayress/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mas11@cin.ufpe.br" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-    <p> mas11@cin.ufpe.br</p>
-  </a>
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
