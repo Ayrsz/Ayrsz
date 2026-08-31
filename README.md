@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and variable aplications of math.\
-🎓 &nbsp;I'm currently studying Computer Engineering at the Federal University of Pernambuco (UFPE).\
+🎓 &nbsp;I'm currently studying Computer Engineering at the Federal University of Pernambuco (UFPE-BR) and double degree at École nationale supérieure de techniques avancées (ENSTA-FR) .\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Robitcs, and Software Engineering.\
 ✍️ &nbsp;In my free time, i like to play video games.\
 💬 &nbsp;Feel free to ask me about anything, give positive or negative feedbacks, i'm open to improvements.\
